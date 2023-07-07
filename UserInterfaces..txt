@@ -1,0 +1,57 @@
+1. User Authentication: The statement does not specify how user authentication is performed when inputting the credit card and personal identification number (PIN). It is essential to outline the security measures and authentication methods employed to ensure the privacy and security of user information.
+
+Destination Selection: The statement does not provide details on how the user selects their destination. Is it a free-text input, a drop-down menu, or a predefined list of stations? Clarifying this aspect will help in designing the user interface and ensuring a smooth user experience.
+
+Payment Processing: The statement does not elaborate on how the payment processing is handled. Are there any specific payment gateways or integration requirements? The system should comply with relevant security standards and specify the procedures for handling failed transactions or refunds.
+
+
+
+
+
+2.
+   
+Performance:
+
+a. The system should be able to issue tickets quickly and efficiently, with minimal latency.
+
+b. The system should be capable of handling a high volume of concurrent ticket requests without significant degradation in performance.
+
+c. The response time for generating and issuing tickets should be within an acceptable range, typically less than X seconds, to provide a smooth user experience.
+
+
+Reliability:
+
+a. The system should be highly reliable and available, with minimal downtime or service interruptions.
+
+b. The system should have appropriate backup and recovery mechanisms in place to prevent data loss in case of failures or disasters.
+
+c. The system should be able to handle temporary network or hardware failures gracefully and recover without losing any critical data.
+
+
+Security:
+
+a. The system should enforce strict access controls to ensure that only authorized personnel can issue tickets and modify relevant information.
+
+b. User authentication and authorization mechanisms should be implemented to prevent unauthorized access to the ticket-issuing system.
+
+c. Ticket data and customer information should be stored securely and protected from unauthorized access or tampering.
+
+
+
+
+
+.YES
+ 
+Good - reason is because the colour is appealing to the eye, the typorgaphy is good
+
+Bad - reason its not simple enough i feel like the proagrammer went added a whole lot of unnecessary things just to take up space it can get confusing for the user.
+
+
+.Yes 
+
+Good - uses common UI elements consistently, the colour is has a warm good feel feeling to it and its very informative.
+
+Bad - The best programs are designed in such a way that we don’t have to learn how to use them. 
+
+
+
